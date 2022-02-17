@@ -6,6 +6,7 @@ public class testing {
 		// TODO Auto-generated method stub
 
 		System.out.println("water is colorless");
+		System.out.println("water is blue");
 	}
 
 }
